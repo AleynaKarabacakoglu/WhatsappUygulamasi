@@ -1,0 +1,6 @@
+ilk serverı aç
+sonra client aç
+enter host : 127.0.0.1
+enter port : 33000
+sonra küçük ekrandan mesajlaşmaya başla :)
+istediğin kadar kullanici olabilir
